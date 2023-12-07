@@ -1,5 +1,5 @@
 # 💫 About Me:
-Otomasyon, Developer
+Otomasyon, Developer, mobill app developer, copy writer, ai developer
 
 
 # 💻 Tech Stack:
